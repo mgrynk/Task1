@@ -1,0 +1,5 @@
+INFO:root:Open YAML File
+INFO:root:Create object(dict) with data from Yaml file
+INFO:root:Creale object with persons from  data object
+INFO:root:Create list of persons
+INFO:root:Prof verification
